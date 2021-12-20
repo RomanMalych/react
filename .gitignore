@@ -1,0 +1,14 @@
+.idea
+.svn
+.git
+*.log
+/roma-test-back/.idea
+/roma-test-back/node_modules
+/roma-test-back/yarn.lock
+/roma-test-front/.idea
+/roma-test-front/package-lock.json
+/roma-test-front/yarn.lock
+/roma-test-front/node_modules
+/r
+
+
