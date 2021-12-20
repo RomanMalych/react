@@ -1,0 +1,31 @@
+{
+  "name": "roma-test-back",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "ajv": "^8.2.0",
+    "bcrypt": "^5.0.1",
+    "body-parser": "^1.19.0",
+    "cookie-parser": "^1.4.5",
+    "express": "^4.17.1",
+    "express-jwt": "^6.0.0",
+    "jsonwebtoken": "^8.5.1",
+    "knex": "^0.95.4",
+    "lodash": "^4.17.21",
+    "nodemon": "^2.0.7",
+    "objection": "^2.2.15",
+    "passport": "^0.4.1",
+    "passport-local": "^1.0.0",
+    "pg": "^8.6.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.16.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.22.1"
+  }
+}
